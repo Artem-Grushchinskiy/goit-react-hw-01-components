@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.e1a81c8f.css",
+    "main.css": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.b7e07cd2.css",
     "main.js": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/js/main.70fe11cb.js",
     "index.html": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/index.html",
-    "main.e1a81c8f.css.map": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.e1a81c8f.css.map",
+    "main.b7e07cd2.css.map": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.b7e07cd2.css.map",
     "main.70fe11cb.js.map": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/js/main.70fe11cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1a81c8f.css",
+    "static/css/main.b7e07cd2.css",
     "static/js/main.70fe11cb.js"
   ]
 }
