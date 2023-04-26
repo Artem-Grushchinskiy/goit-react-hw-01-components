@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.b7e07cd2.css",
-    "main.js": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/js/main.70fe11cb.js",
-    "index.html": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/index.html",
-    "main.b7e07cd2.css.map": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/css/main.b7e07cd2.css.map",
-    "main.70fe11cb.js.map": "/Artem-Grushchinskiy/goit-react-hw-01-components.git/static/js/main.70fe11cb.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.b7e07cd2.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.70fe11cb.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.b7e07cd2.css.map": "/goit-react-hw-01-components/static/css/main.b7e07cd2.css.map",
+    "main.70fe11cb.js.map": "/goit-react-hw-01-components/static/js/main.70fe11cb.js.map"
   },
   "entrypoints": [
     "static/css/main.b7e07cd2.css",
