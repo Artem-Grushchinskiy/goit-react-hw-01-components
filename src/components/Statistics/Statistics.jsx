@@ -39,7 +39,7 @@ export const Statistics = ({ title, stats }) => {
 };
 
 Statistics.propTypes = {
-  title: propTypes.string.isRequired,
+  title: propTypes.string,
   stats: propTypes.arrayOf(
     propTypes.shape({
       id: propTypes.string.isRequired,
